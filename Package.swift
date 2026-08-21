@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "REVUPLuckyEvent",
             url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.9/REVUPLuckyEvent.zip",
-            checksum: "d088cd198d51ea3ba4afa23509281c6f4c3d028a6965683bbfdce0e92a19320b"
+            checksum: "63d5782b99bd6afdb080d3c5e4f240ca1e4e0e5f9184c9f4ee82374a6f2c1864"
         ),
     ]
 )

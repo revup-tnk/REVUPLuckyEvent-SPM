@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "REVUPLuckyEvent",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(
             name: "REVUPLuckyEvent",
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "REVUPLuckyEvent",
-            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.1.10/REVUPLuckyEvent.zip",
-            checksum: "a79c6b77ab8d7a282d5366854dfe574d9a387a2e4c5aa5f25809d1db35f508fc"
+            url: "https://github.com/revup-tnk/REVUP-iOS-SDK/releases/download/1.2.0/REVUPLuckyEvent.zip",
+            checksum: "a03b9c75284aa5e686035cced63d1695f4a5ece0f0402264e675d5233b793fa2"
         ),
     ]
 )
